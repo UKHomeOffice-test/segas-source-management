@@ -1,0 +1,1 @@
+# segas-source-management
